@@ -1,28 +1,38 @@
-# 👋 Hi there, I'm Abdo (Abdelrhman Khaled Diab)
+# Abdelrhman Khaled Diab
 
-🚀 A self-taught **Frontend Developer** based in Egypt, passionate about building clean, modern, and responsive web applications.
+### Frontend Developer · React & TypeScript
 
-💡 I specialize in **React, TypeScript, and Tailwind CSS**. I'm currently focused on building real-world projects, improving my craft, and open to volunteer/freelance opportunities to gain hands-on client experience.
+I build clean, responsive web applications with a focus on real-world use, maintainable UI, and a good developer experience. Based in Egypt and open to freelance and volunteer work.
 
-## 🛠️ Tech Stack
+## Selected work
+
+| Project | What it does | Stack | Links |
+|---|---|---|---|
+| **Aroma Corner** | Coffee shop storefront with a modern, responsive shopping experience. | React · Vite · TypeScript · Tailwind CSS | [Live](https://aroma-pi-two.vercel.app/) · [Code](https://github.com/abdo4312/aroma) |
+| **Islame** | Islamic Android companion app for prayer times, Adhan, Qibla, and guided mentorship. | React · Capacitor · Supabase | [Code](https://github.com/abdo4312/road-to-islam) |
+| **Tafaneen** | Stationery order and sales management system with an Arabic-first interface. | React · TypeScript · Tailwind CSS | [Code](https://github.com/abdo4312/tafaneen-order-bloom) |
+| **Quran Memorization Tools** | Interactive memorization and tafsir tools that run entirely in the browser. | HTML · JavaScript · CSS | [Live](https://abdo4312.github.io/quran-memorization-tools/) · [Code](https://github.com/abdo4312/quran-memorization-tools) |
+| **Salary Closing App** | Payroll closing and attendance management with OCR import for Excel/PDF data. | React · TypeScript · Vite | [Code](https://github.com/abdo4312/salary-closing-app) |
+| **FinanceFlow** | Full-stack personal finance manager for tracking expenses and budgets. | MongoDB · Express · React · Node.js | [Live](https://financeflow-khaki.vercel.app) · [Code](https://github.com/abdo4312/financeflow) |
+
+## Tech I work with
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![Electron](https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=electron&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 
-## 🚀 Featured Projects
+## What I care about
 
-- ☕ **Aroma Corner** - A modern coffee shop e-commerce app. [Live Demo](https://aroma-pi-two.vercel.app/)
-- 📿 **Quran Memorization Tools** - Interactive HTML tools for memorization. [Live Demo](https://abdo4312.github.io/quran-memorization-tools/) | [Repo](https://github.com/abdo4312/quran-memorization-tools)
-- 🛒 **Tafaneen E-commerce** - Stationery store frontend. [Repo](https://github.com/abdo4312/tafaneen-order-bloom)
-- 🕌 **Islame App** - Islamic Android app (Prayer times, Qibla). [Repo](https://github.com/abdo4312/road-to-islam)
+- Building interfaces that feel simple, fast, and predictable.
+- Writing TypeScript that is easy to read and maintain.
+- Turning real requirements into shipped features, not just screens.
+- Learning from every project and improving the next one.
 
-## 🤝 Let's Connect
+## Let's connect
 
-Want to see more of my work? Check out the [Aroma Corner live demo](https://aroma-pi-two.vercel.app/) to see a real, production-style project in action.
+I'm open to freelance and volunteer opportunities, especially frontend work with React and TypeScript.
 
-I'm always open to volunteer and freelance opportunities, and happy to jump on a **video call** to discuss your project or collaboration ideas.
-
-⭐️ *Feel free to check out my repositories below!*
+The best way to reach me is through [GitHub](https://github.com/abdo4312). Feel free to explore the repositories below.
