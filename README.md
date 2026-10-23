@@ -10,7 +10,6 @@ I build clean, responsive web applications with a focus on real-world use, maint
 |---|---|---|---|
 | **Aroma Corner** | Coffee shop storefront with a modern, responsive shopping experience. | React · Vite · TypeScript · Tailwind CSS | [Live](https://aroma-pi-two.vercel.app/) · [Code](https://github.com/abdo4312/aroma) |
 | **Islame** | Islamic Android companion app for prayer times, Adhan, Qibla, and guided mentorship. | React · Capacitor · Supabase | [Code](https://github.com/abdo4312/road-to-islam) |
-| **Tafaneen** | Stationery order and sales management system with an Arabic-first interface. | React · TypeScript · Tailwind CSS | [Code](https://github.com/abdo4312/tafaneen-order-bloom) |
 | **Quran Memorization Tools** | Interactive memorization and tafsir tools that run entirely in the browser. | HTML · JavaScript · CSS | [Live](https://abdo4312.github.io/quran-memorization-tools/) · [Code](https://github.com/abdo4312/quran-memorization-tools) |
 | **Salary Closing App** | Payroll closing and attendance management with OCR import for Excel/PDF data. | React · TypeScript · Vite | [Code](https://github.com/abdo4312/salary-closing-app) |
 | **FinanceFlow** | Full-stack personal finance manager for tracking expenses and budgets. | MongoDB · Express · React · Node.js | [Live](https://financeflow-khaki.vercel.app) · [Code](https://github.com/abdo4312/financeflow) |
