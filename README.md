@@ -15,6 +15,11 @@ I build clean, responsive web applications with a focus on real-world use, maint
 | **Salary Closing App** | Payroll closing and attendance management with OCR import for Excel/PDF data. | React · TypeScript · Vite | [Code](https://github.com/abdo4312/salary-closing-app) |
 | **FinanceFlow** | Full-stack personal finance manager for tracking expenses and budgets. | MongoDB · Express · React · Node.js | [Live](https://financeflow-khaki.vercel.app) · [Code](https://github.com/abdo4312/financeflow) |
 
+## Open source
+
+- **Wordcraft** — merged [PR #501](https://github.com/storytold/wordcraft/pull/501): numeral display modes for Arabic, Hindi, Context, and System digits.
+- **Photocraft** — open [PR #8744](https://github.com/storytold/photocraft/pull/8744): fix printing margin units across px, cm, mm, in, pt, and pc.
+
 ## Tech I work with
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
