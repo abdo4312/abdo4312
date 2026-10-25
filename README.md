@@ -42,4 +42,4 @@ A few selected public projects. Some client and product work stays private.
 
 I'm open to freelance and volunteer opportunities, especially frontend work with React and TypeScript.
 
-The best way to reach me is by email: **[اكتب إيميلك هنا]** — feel free to explore the repositories below.
+The best way to reach me is by email: **abdokh123456797@gmail.com** — feel free to explore the repositories below.
