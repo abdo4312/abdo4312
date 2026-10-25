@@ -4,6 +4,8 @@
 
 I build clean, responsive web applications with a focus on real-world use, maintainable UI, and a good developer experience. Based in Egypt and open to freelance and volunteer work.
 
+I also build n8n automations (data collection, notifications, reports).
+
 ## Selected work
 
 A few selected public projects. Some client and product work stays private.
@@ -12,6 +14,8 @@ A few selected public projects. Some client and product work stays private.
 |---|---|---|---|
 | **FinanceFlow** | Full-stack personal finance manager for tracking expenses and budgets. | MongoDB · Express · React · Node.js | [Live](https://financeflow-khaki.vercel.app) · [Code](https://github.com/abdo4312/financeflow) |
 | **Professional Portfolio** | Full-stack portfolio with a Supabase-backed admin dashboard and dynamic content. | React · TypeScript · Supabase | [Code](https://github.com/abdo4312/professional-portfolio-.) |
+| **Mizan** | Educational inheritance (mīrāth) calculator that distributes an estate with exact BigInt fractions — no rounding. | HTML · CSS · JavaScript (BigInt) | [Live](https://abdo4312.github.io/mizan-inheritance-calculator/) · [Code](https://github.com/abdo4312/mizan-inheritance-calculator) |
+| **n8n Automation Examples** | Automation workflow (designed to run on a schedule) that pulls Hacker News story IDs, fetches each story, and writes a Markdown feed file. | n8n · JavaScript | [Code](https://github.com/abdo4312/n8n-automation-examples) |
 
 ## Open source
 
@@ -38,4 +42,4 @@ A few selected public projects. Some client and product work stays private.
 
 I'm open to freelance and volunteer opportunities, especially frontend work with React and TypeScript.
 
-The best way to reach me is through [GitHub](https://github.com/abdo4312). Feel free to explore the repositories below.
+The best way to reach me is by email: **[اكتب إيميلك هنا]** — feel free to explore the repositories below.
